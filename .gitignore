@@ -1,4 +1,6 @@
-node_modules/
-.DS_Store
-hwassets/
+node_modules
+hwassets
 .env
+.DS_Store
+userComment.js
+.vscode/

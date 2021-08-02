@@ -22,6 +22,13 @@ This backend application allows the user to get, add, edit, and delete categorie
 <li>Add a single product, tag, or product category</li>
 <li>Delete a single product, tag, or product category</li>
 <li>Receive a 404 error if the user queries an invalid product, tag, or product category id</li>
+</ol>
+
+Terminal screenshot:
+<img src='./readme_assets/terminal_ss.png'>
+
+Insomnia screenshot:
+<img src='./readme_assets/insomnia_ss.png'>
 
 ## Installation
 
